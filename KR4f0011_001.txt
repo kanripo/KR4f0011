@@ -973,6 +973,7 @@
 <pb:KR4f0011_SBCK_001-27a>¶
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0422-001牧齋有學集補-一卷.
+# ?
 <pb:KR4f0011_SBCK_001-1a>¶
 　牧齋有學集補¶
 　　　三次申字韻示茂之¶
